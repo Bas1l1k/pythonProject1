@@ -60,3 +60,4 @@ while km <= purpose:
     day = day + 1
 print(f'Спротсмену нужно бегать {day} дней, чтобы достичь цели в {purpose} км')
 
+
